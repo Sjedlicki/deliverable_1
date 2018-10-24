@@ -12,3 +12,10 @@ X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\
 X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.csproj.CoreCompileInputs.cache
 X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.exe
 X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.pdb
+C:\git\deliverable_1\Currency Format Converter\Currency Format Converter\bin\Debug\Currency Format Converter.exe.config
+C:\git\deliverable_1\Currency Format Converter\Currency Format Converter\bin\Debug\Currency Format Converter.exe
+C:\git\deliverable_1\Currency Format Converter\Currency Format Converter\bin\Debug\Currency Format Converter.pdb
+C:\git\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.csprojAssemblyReference.cache
+C:\git\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.csproj.CoreCompileInputs.cache
+C:\git\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.exe
+C:\git\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.pdb

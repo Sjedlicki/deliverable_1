@@ -18,7 +18,9 @@ namespace Currency_Format_Converter
             while (repeat == true)
             {
                 num.Clear();
-            
+
+                Console.OutputEncoding = System.Text.Encoding.UTF8;
+
                 Console.Write("Input Random Value 1: ");
                 values[0] = double.Parse(Console.ReadLine());
                 Console.Write("Input Random Value 2: ");
@@ -52,15 +54,6 @@ namespace Currency_Format_Converter
                 Console.WriteLine("Swedish: {0}", currency.ToString("C", new System.Globalization.CultureInfo("sv-SE")));
                 Console.WriteLine("Japanese: {0} ", currency.ToString("C", new System.Globalization.CultureInfo("ja-JP")));
                 Console.WriteLine("Thai: : {0}", currency.ToString("C", new System.Globalization.CultureInfo("th-TH")));
-
-                //Console.WriteLine("US: " + format);
-                //Console.WriteLine("Swedish: " + format + "kr");
-                //Console.WriteLine("Japanese: ￥" + format);
-                //Console.WriteLine("Thai: ฿" +format);
-
-                //Console.WriteLine("Total: " + (values[0] + values[1] + values[2]));
-                //Console.WriteLine("Average :" + (values[0] + values[1] + values[2])/(3));
-                //Console.WriteLine((values));
 
                 Console.WriteLine(); // ADDING SPACING
                 Console.WriteLine(); // ADDING SPACING
