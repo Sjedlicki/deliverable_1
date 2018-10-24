@@ -11,18 +11,20 @@ namespace Currency_Format_Converter
     {
         static void Main(string[] args)
         {
-            float[] values = new float[3];
-            List<float> num = new List<float>();
+            double[] values = new double[3];
+            List<double> num = new List<double>();
             bool repeat = true;
             
             while (repeat == true)
             {
+                num.Clear();
+            
                 Console.Write("Input Random Value 1: ");
-                values[0] = float.Parse(Console.ReadLine());
+                values[0] = double.Parse(Console.ReadLine());
                 Console.Write("Input Random Value 2: ");
-                values[1] = float.Parse(Console.ReadLine());
+                values[1] = double.Parse(Console.ReadLine());
                 Console.Write("Input Random Value 3: ");
-                values[2] = float.Parse(Console.ReadLine());
+                values[2] = double.Parse(Console.ReadLine());
 
                 num.Add(values[0]);
                 num.Add(values[1]);
