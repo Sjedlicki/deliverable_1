@@ -74,6 +74,7 @@ namespace Currency_Format_Converter
                     {
                         repeat = true;
                         Console.Clear();
+                        break;
 
                     }
                     else if ((go == "N") || (go == "n") || (go == "No") || (go == "no"))
@@ -97,5 +98,4 @@ namespace Currency_Format_Converter
             Console.ReadKey();
         }
     }
-
 }
