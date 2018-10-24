@@ -11,12 +11,10 @@ namespace Currency_Format_Converter
     {
         static void Main(string[] args)
         {
-
             float[] values = new float[3];
             List<float> num = new List<float>();
             bool repeat = true;
-
-
+            
             while (repeat == true)
             {
                 Console.Write("Input Random Value 1: ");

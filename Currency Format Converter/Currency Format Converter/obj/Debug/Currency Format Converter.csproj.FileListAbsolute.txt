@@ -5,3 +5,10 @@ X:\Stevo\Documents\Visual Studio Projects\Currency Format Converter\Currency For
 X:\Stevo\Documents\Visual Studio Projects\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.csproj.CoreCompileInputs.cache
 X:\Stevo\Documents\Visual Studio Projects\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.exe
 X:\Stevo\Documents\Visual Studio Projects\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.pdb
+X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\bin\Debug\Currency Format Converter.exe.config
+X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\bin\Debug\Currency Format Converter.exe
+X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\bin\Debug\Currency Format Converter.pdb
+X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.csprojAssemblyReference.cache
+X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.csproj.CoreCompileInputs.cache
+X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.exe
+X:\GitHub\deliverable_1\Currency Format Converter\Currency Format Converter\obj\Debug\Currency Format Converter.pdb
